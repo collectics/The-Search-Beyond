@@ -3,24 +3,35 @@
 Description
 ------------
 
-When's the next meeting of the Space Club?
+Hey, remember when we made that cool model of the solar system? When's the next meeting of the Space Club?
 
+|| : _ _ _ _ _
 
+| : _ 0 _ 0 _ _ 0
+
+||||||| : _ 0 _ _ _ _
+
+|||| : _ _ _ _
+
+||||| : _ _ _ _ _ 0 _
+
+||| : _ 0 _ _ 0
+
+|||||||| : _ _ _ _ _ _ _
+
+|||||| : _ _ _ _ 0 _
+
+8.1* _ _ _ 0 _ 
+
+*An ode to Clyde Tombaugh.
 
 Key
 ---------
-15611
+treachery
 
 Internal Description
 --------------------
-Translate all the symbols to numbers:
-
-a -) 1
-k -) 11
-6 -) 6
-. -) e (Morse code) -) 5
-
-Then, put the number in increasing order to create a five-digit key:
-
-1 < 5 < 6 < 11
-15611
+Each line is a name of a planet in our solar system (plus Pluto, as Clyde Tombaugh found).
+The vertical lines are tally marks, and there are no crosses this time.
+Each blank space holds a letter. The zeroes are the letters we should be focusing on and collecting.
+Collect all the letters, then unscramble them to spell the keyword.
