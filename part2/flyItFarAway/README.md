@@ -5,21 +5,21 @@ Description
 
 Hey, remember when we made that cool model of the solar system? When's the next meeting of the Space Club?
 
-|| : _ _ _ _ _
+| | : _ _ _ _ _
 
 | : _ 0 _ 0 _ _ 0
 
-||||||| : _ 0 _ _ _ _
+| | | | | | | : _ 0 _ _ _ _
 
-|||| : _ _ _ _
+| | | | : _ _ _ _
 
-||||| : _ _ _ _ _ 0 _
+| | | | | : _ _ _ _ _ 0 _
 
-||| : _ 0 _ _ 0
+| | | : _ 0 _ _ 0
 
-|||||||| : _ _ _ _ _ _ _
+| | | | | | | | : _ _ _ _ _ _ _
 
-|||||| : _ _ _ _ 0 _
+| | | | | | : _ _ _ _ 0 _
 
 8.1* _ _ _ 0 _ 
 
