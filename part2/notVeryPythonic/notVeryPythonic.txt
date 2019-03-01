@@ -1,0 +1,36 @@
+def jkhopgzhcktpohkpto_checker(hkopthasopd, jkhopgzhcktpohkpto):
+    return int(str(hkopthasopd)[jkhopgzhcktpohkpto])
+ 
+def hdasdtk_fasdghasruyharj(hkopthasopd):
+    hdasdtk_jkhopgzhcktpohkptos = 0
+    hnuipertgsiopr_hkopthasopd = 1000000000
+    while hkopthasopd < hnuipertgsiopr_hkopthasopd:
+        hdasdtk_jkhopgzhcktpohkptos += 1
+        hnuipertgsiopr_hkopthasopd /= 10
+    return hdasdtk_jkhopgzhcktpohkptos
+ 
+def hdasdtk_sdfasdfasdfasdfasgdhuloyo(hdasdtk_jkhopgzhcktpohkptos):
+    cstasdtyasdtasdt = 0
+    while cstasdtyasdtasdt != hdasdtk_jkhopgzhcktpohkptos:
+        print "|L0^v0***~*   |"
+        cstasdtyasdtasdt = cstasdtyasdtasdt + 1
+ 
+def xdtasehfd(hkopthasopd):
+    if hkopthasopd >= 10000000000:
+        assert False
+    dfasdfassdya = "|L0^v0***~*|"
+    hdasdtk_jkhopgzhcktpohkptos = hdasdtk_fasdghasruyharj(hkopthasopd)
+    hdasdtk_sdfasdfasdfasdfasgdhuloyo(hdasdtk_jkhopgzhcktpohkptos)
+    jkhopgzhcktpohkpto = 0
+    while jkhopgzhcktpohkpto != (10 - hdasdtk_jkhopgzhcktpohkptos):
+        hsarunkpwetjhoppote = jkhopgzhcktpohkpto_checker(hkopthasopd, jkhopgzhcktpohkpto)
+        print dfasdfassdya[:-(hsarunkpwetjhoppote + 1)] + "   " + dfasdfassdya[-(hsarunkpwetjhoppote + 1):]
+        jkhopgzhcktpohkpto = jkhopgzhcktpohkpto + 1
+ 
+#########################################################################
+ 
+# Run the program itself here! Yay! Set the#$&($)_#@ inp#$*.
+INPUT = _____________
+xdtasehfd(INPUT)
+ 
+#########################################################################
